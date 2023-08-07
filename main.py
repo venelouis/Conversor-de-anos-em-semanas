@@ -1,4 +1,4 @@
-# Weeks in Years
+# Weeks in Years (Semanas em Anos)!
 
 ''''
 Um programa que converte número de anos em semanas, por exemplo:
@@ -15,3 +15,4 @@ weeks = 52 * int(years)
 #print(type(years))
 # Então para imprimir corretamente este é o código:
 print("Existem "+str(weeks)+ " semanas em: "+years+ " anos.")
+
